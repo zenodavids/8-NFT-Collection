@@ -119,4 +119,4 @@ contract CryptoDevs is ERC721Enumerable, Ownable {
 }
 
 // 1st Crypto Devs Contract Address: 0x1B87C3104010340F58C1944477e5bCeF83b77857
-// 2nd Crypto Devs Contract Address: 0x3cBd6B15E0679E19816A16EBCC4Ce6314DB10618
+// 2nd Crypto Devs Contract Address: 0xaBEAd78fCA1fB19692a2f5141C162839fD29Edd7
