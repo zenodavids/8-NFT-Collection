@@ -1,3 +1,4 @@
+// https://nft-presale-collection.vercel.app/
 import { Contract, providers, utils } from "ethers";
 import Head from "next/head";
 import React, { useEffect, useRef, useState } from "react";
